@@ -1,0 +1,11 @@
+{
+  "name": "iseventsupported",
+  "repo": "ramitos/iseventsupported",
+  "version": "0.0.1",
+  "description": "A function for analyzing event support in browsers (using feature detection)",
+  "main": "src/iseventsupported.js",
+  "scripts": [
+    "src/iseventsupported.js",
+    "src/tagnames.js"
+  ]
+}
