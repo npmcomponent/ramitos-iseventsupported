@@ -1,7 +1,9 @@
 {
   "name": "iseventsupported",
   "repo": "ramitos/iseventsupported",
+  "twitter": "@ramitos",
   "version": "0.0.1",
+  "license": "MIT",
   "description": "A function for analyzing event support in browsers (using feature detection)",
   "main": "src/iseventsupported.js",
   "scripts": [
