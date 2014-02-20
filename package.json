@@ -1,0 +1,8 @@
+{
+  "name": "ramitos-iseventsupported",
+  "description": "A function for analyzing event support in browsers (using feature detection)",
+  "version": "0.0.1",
+  "main": "src/iseventsupported.js",
+  "dependencies": {},
+  "license": "MIT"
+}
